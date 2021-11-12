@@ -35,5 +35,5 @@ jobs:
         with:
           app-name: 'docxconverstionaicl'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59EF64FA3B4C4FA489DE68B83E69CD0C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A93D1385FEDC4DBAAA19A65B39401C91 }}
           package: '.\\app.zip'
